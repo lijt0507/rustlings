@@ -11,6 +11,7 @@ mod sausage_factory {
     }
 }
 
+
 fn main() {
     sausage_factory::make_sausage();
 }
